@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="570" viewBox="0 0 640 570" fill="none"><defs><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#6d8a72" stroke-opacity=".12" stroke-width=".7"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0L10 5L0 10" fill="none" stroke="#486854" stroke-width="1.5"/></marker></defs><rect width="640" height="570" fill="#20473e"/><rect width="640" height="570" fill="url(#grid)"/><g stroke="#8fb59d" stroke-width="1" opacity=".20"><path d="M35 360L315 197L610 367L327 530Z"/><path d="M68 380L348 217M105 402L385 239M142 423L422 261M179 445L459 283M216 467L496 305M253 489L533 327M290 511L570 349"/><path d="M72 338L364 509M109 317L401 488M146 295L438 467M183 274L475 445M220 252L512 424M257 231L549 403M294 209L586 381"/></g>
+<g stroke="#9dbaa7" stroke-width="1"><path d="M40 164V81H173"/><path d="M471 94H594V204"/><path d="M82 443V482H149"/><path d="M488 468H597V425"/></g>
+<g><rect x="50" y="87" width="145" height="83" fill="#234e43" stroke="#6b967b"/><path d="M66 146H178M66 108V155" stroke="#668f75"/><path d="M66 137L79 137L87 117L99 148L110 124L122 135L133 116L145 140L157 129L178 129" stroke="#c6e4aa" stroke-width="1.7"/></g>
+<g fill="#7fa28a"><circle cx="517" cy="118" r="1.6"/><circle cx="517" cy="131" r="1.6"/><circle cx="517" cy="144" r="1.6"/><circle cx="517" cy="157" r="1.6"/><circle cx="517" cy="170" r="1.6"/><circle cx="530" cy="118" r="1.6"/><circle cx="530" cy="131" r="1.6"/><circle cx="530" cy="144" r="1.6"/><circle cx="530" cy="157" r="1.6"/><circle cx="530" cy="170" r="1.6"/><circle cx="543" cy="118" r="1.6"/><circle cx="543" cy="131" r="1.6"/><circle cx="543" cy="144" r="1.6"/><circle cx="543" cy="157" r="1.6"/><circle cx="543" cy="170" r="1.6"/><circle cx="556" cy="118" r="1.6"/><circle cx="556" cy="131" r="1.6"/><circle cx="556" cy="144" r="1.6"/><circle cx="556" cy="157" r="1.6"/><circle cx="556" cy="170" r="1.6"/><circle cx="569" cy="118" r="1.6"/><circle cx="569" cy="131" r="1.6"/><circle cx="569" cy="144" r="1.6"/><circle cx="569" cy="157" r="1.6"/><circle cx="569" cy="170" r="1.6"/></g>
+<ellipse cx="288" cy="430" rx="136" ry="47" fill="#193c32"/>
+<path d="M190 413L265 370L344 416L271 460Z" fill="#426955" stroke="#9eba9a"/>
+<path d="M190 413V431L271 477V460M271 477L344 434V416" stroke="#9eba9a" fill="#315342"/>
+<path d="M225 405V354L280 322L325 350V403L271 435Z" fill="#537b5c" stroke="#bdd1ae"/>
+<path d="M225 354L271 382L325 350M271 382V435" stroke="#b0cba4"/>
+<path d="M249 362L223 253L256 226L291 247L309 343L277 367Z" fill="#7c9e73" stroke="#ccdfb8"/>
+<path d="M256 226L277 328L309 343M223 253L256 271L291 247" stroke="#d3e5c0"/>
+<ellipse cx="248" cy="257" rx="25" ry="31" transform="rotate(-30 248 257)" fill="#3b6650" stroke="#c9ddba"/>
+<ellipse cx="249" cy="257" rx="10" ry="13" transform="rotate(-30 249 257)" fill="#b2ce9d"/>
+<path d="M254 229L379 166L413 184L407 215L281 280L271 258Z" fill="#afc793" stroke="#d8e9c1"/>
+<path d="M254 229L285 245L413 184M285 245L281 280" stroke="#edf5dc"/>
+<ellipse cx="397" cy="194" rx="24" ry="28" transform="rotate(30 397 194)" fill="#5b845f" stroke="#d3e3bb"/>
+<ellipse cx="397" cy="194" rx="10" ry="12" fill="#b2ce9d" stroke="#d3e3bb"/>
+<path d="M412 195L471 258L454 286L427 277L380 218Z" fill="#8bab7e" stroke="#d5e6c0"/>
+<path d="M412 195L394 220L454 286M394 220L380 218" stroke="#e2eed3"/>
+<path d="M451 261L477 245L505 262L478 279Z" fill="#d7e3bc" stroke="#edf5d6"/>
+<path d="M451 261V290L478 307L505 290V262M478 279V307" fill="#8baa7b" stroke="#e2edcc"/>
+<path d="M478 307L440 375M494 299L541 364" stroke="#d9ba7f" stroke-dasharray="4 5"/>
+<path d="M440 375L487 403L541 364L495 338Z" fill="#c5d6a4" fill-opacity=".1" stroke="#d9ba7f" stroke-dasharray="4 4"/>
+<path d="M463 365L485 352L508 365L486 379Z" fill="#cb9b66" stroke="#edca93"/>
+<path d="M463 365V385L486 399L508 385V365M486 379V399" fill="#ac865b" stroke="#edca93"/>
+<path d="M507 386L559 416V455L508 484" stroke="#c1d2ad" stroke-dasharray="4 5"/>
+<path d="M158 421L110 393V298L169 265" stroke="#c1d2ad" stroke-dasharray="4 5"/>
+<circle cx="110" cy="298" r="4" fill="#c5dda8"/>
+<circle cx="559" cy="416" r="4" fill="#c5dda8"/>
+<text x="68" y="74" fill="#b5cbaa" font-size="8" font-family="monospace" letter-spacing="1">SIGNAL / CONTROL</text><text x="467" y="88" fill="#b5cbaa" font-size="8" font-family="monospace" letter-spacing="1">SENSE</text><text x="90" y="325" fill="#b5cbaa" font-size="8" font-family="monospace" letter-spacing="1">FEEDBACK</text><text x="432" y="448" fill="#b5cbaa" font-size="8" font-family="monospace" letter-spacing="1">MEASURE</text></svg>
